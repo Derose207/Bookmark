@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "Titre": "College Lionel-Groulx",
+        "url": "https://clg.qc.ca/",
+        "categorie": "Cegep"
+    },
+    {
+        "Id": 3,
+        "Titre": "Youtube",
+        "url": "https://www.youtube.com/",
+        "categorie": "divertissement "
+    },
+    {
+        "Id": 4,
+        "Titre": "Chocolat Favoris",
+        "url": "https://www.chocolatsfavoris.com/fr",
+        "categorie": "Chocolat"
+    }
+]
